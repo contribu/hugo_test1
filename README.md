@@ -20,3 +20,8 @@ hugo new site test1
 ```bash
 hugo server -D --bind="0.0.0.0"
 ```
+
+## 問題
+
+vagrantでpollingが使えないらしい
+https://github.com/gohugoio/hugo/issues/2340
